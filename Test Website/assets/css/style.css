@@ -10,6 +10,10 @@ a, a:hover{
     color: #000000;
     height: 35px;
     line-height: 35px;
+    position: relative;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
 }
 
 .top-contact,.sosmed {
